@@ -1,0 +1,19 @@
+{
+  "name": "foster-the-banana",
+  "version": "1.0.0",
+  "description": "CharityBall app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundmedicine/foster-the-front.git"
+  },
+  "author": "Roberto Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundmedicine/foster-the-front/issues"
+  },
+  "homepage": "https://github.com/soundmedicine/foster-the-front#readme"
+}
